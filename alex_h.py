@@ -6,3 +6,5 @@ if type(alex) == "person":
 if type(alex) == "java_object":
 
 print "I do what I want"
+
+print "I regret this decision"
