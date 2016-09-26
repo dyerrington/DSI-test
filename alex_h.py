@@ -5,3 +5,8 @@ if type(alex) == "person":
 
 if type(alex) == "java_object":
     print "this would never happen in python"
+
+while type(alex) == "person":
+    print "still a person?"
+
+whitespaces...
