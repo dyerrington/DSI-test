@@ -1,4 +1,6 @@
 echo "this is some good code yo"
 
 if this_Var:
-    print "har haw haw har! There will be a merge conflict! Mwah hahahaha!" 
+    print "<3 Mwah hahahaha!<3" 
+	print "<3 Evil Nicholle is adding hearts EVERYWHERE!!!!!<3 "
+
