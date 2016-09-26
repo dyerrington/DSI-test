@@ -1,1 +1,1 @@
-print "Hi, why can't you just say hi back"
+print 'Hi -- back to where we were'
