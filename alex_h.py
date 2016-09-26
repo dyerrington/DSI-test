@@ -5,6 +5,6 @@ if type(alex) == "person":
 
 if type(alex) == "java_object":
 
-print "I do what I want"
-
-print "I regret this decision"
+print "I do what I want.. even when presented with choices"
+print "this is a commit.."
+print "and this is sa string"
